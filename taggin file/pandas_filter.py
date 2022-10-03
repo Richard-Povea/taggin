@@ -7,7 +7,7 @@ import os
 from typing import Tuple, Optional, Union
 
 MAIN_TAXONOMY = ('Pleurodema_thaul', 'other_amphibians', 'Batrachyla_taeniata', 'Batrachyla_leptopus')
-DATA_PATH = "./1039_modificado_v2.json"
+DATA_PATH = "taggin/taggin file/1039_modificado_v2.json"
 
 def filter_by_taxonomy(file: json, taxonomy: tuple) -> pd.DataFrame:
     """Read JSON file, filter and sort by file and taxonomy """
@@ -60,7 +60,7 @@ def write_json_file(data: dict, name: str, path: Optional[str]=None) -> None:
         outfile.write(json_object)
         
 def validate_founded(founded: dict, data: pd.DataFrame)->dict:
-    monophonic_events = dict()
+    monophonic_events = list()
     for audio_file in founded.keys():
         df = pd.DataFrame(founded[audio_file]) 
         data2 = data.groupby(level=0).get_group(audio_file)
@@ -70,18 +70,24 @@ def validate_founded(founded: dict, data: pd.DataFrame)->dict:
         # print(data2)
         results =  find_time_data(df, data2)
         if results:
-            monophonic_events[audio_file] = results
+            #monophonic_events[audio_file] = results
+            for result in results:
+                result['file_name'] = audio_file
+                monophonic_events.append(result)
     return monophonic_events
                
-def find_time_data(df: pd.DataFrame, data: pd.DataFrame)->Tuple[str,str]:
-    monophonic_events = dict()
+def find_time_data(df: pd.DataFrame, data: pd.DataFrame)->list[dict]:
+    monophonic_events = list()
     for event in df.columns:            
         beginning, end, length = df[event].loc[['beginning','end', 'length']].values
         monophonic, _ = find_monophonic_event(data, beginning, end)
         # #DEBUG
         # print(event, monophonic, overlapping_tuple)
         if monophonic:
-            monophonic_events[event] = {'taxonomy': df[event].loc['taxonomy'], 'start': beginning, 'end': end, 'length': length}
+            monophonic_events.append({'taxonomy': df[event].loc['taxonomy'], 
+                                      'start': beginning, 
+                                      'end': end, 
+                                      'length': length})
     return monophonic_events
         
 def find_monophonic_event(data: pd.DataFrame, beginning: float, end: float) -> Tuple[Union[bool, Tuple[bool,bool,bool]]]:

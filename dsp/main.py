@@ -1,25 +1,30 @@
 import librosa
 import os
-import pydantic
+import json
 import soundfile as sf
+
 from typing import Optional
+from pydantic import BaseModel, validator, ValidationError
 
-DATA_FILE_PATH = r'C:\Users\richa\OneDrive - Universidad Austral de Chile\PSELD\taggin file\monophonic_events.json'
+DATA_FILE_PATH = 'mp_ev_v3.json'
 
-FILE = './Hola a todos lo gamers.wav'
-START = 0
-END = 1
-
-class Event(pydantic.BaseModel):
+class Event(BaseModel):
     taxonomy: str
-    beginning: float|int
+    start: float|int
     end: float|int
     length: float|int
+    file_name: str
+
+def importData() -> Event:
+    with open(DATA_FILE_PATH) as file:
+        data = json.load(file)
+        events = [Event(**e) for e in data]
+    return events
 
 def cutAudioFile(path: str, start: float|int, end: float|int, name: str, output_path: Optional[str]=None) -> None:
     """Cut an audio file\n
         PARAMETERS:
-            path: directory or file name\n
+            path: relative path\n
             start: start of output audio\n
             end: end of output audio\n
             name: name of output file
@@ -31,11 +36,19 @@ def cutAudioFile(path: str, start: float|int, end: float|int, name: str, output_
         name = os.path.join(output_path, name)
     sf.write(name, y, sr)
 
-
+def loopThroughTheData(directory: Optional[str]=None) -> None:
+    events = importData()
+    if directory:
+        path = os.path.join(directory, event.file_name)
+    for i, event in enumerate(events):
+        cutAudioFile(path, 
+                     event.start,
+                     event.end,
+                     f'{event.file_name}_{i+1}')
 
 def main() -> None:
     """Main function"""
-    cutAudioFile(FILE, START, END, 'test.wav')
+    loopThroughTheData()
 
 if __name__ == '__main__':
     main()
