@@ -1,0 +1,4630 @@
+{
+    "audio311.wav": {
+        "1 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 175.804,
+            "end": 178.262,
+            "length": 2.46
+        },
+        "3 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 285.021,
+            "end": 286.078,
+            "length": 1.06
+        }
+    },
+    "audio312.wav": {
+        "8 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 71.129,
+            "end": 76.09,
+            "length": 4.96
+        },
+        "10 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 95.355,
+            "end": 98.916,
+            "length": 3.56
+        },
+        "11 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 111.045,
+            "end": 113.512,
+            "length": 2.47
+        },
+        "12 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 118.727,
+            "end": 120.561,
+            "length": 1.83
+        },
+        "13 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 127.446,
+            "end": 129.013,
+            "length": 1.57
+        },
+        "14 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 140.332,
+            "end": 142.966,
+            "length": 2.63
+        },
+        "15 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 261.171,
+            "end": 265.923,
+            "length": 4.75
+        },
+        "16 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 266.569,
+            "end": 268.884,
+            "length": 2.31
+        },
+        "33 event": {
+            "taxonomy": "other_amphibians",
+            "start": 258.311,
+            "end": 260.877,
+            "length": 2.57
+        }
+    },
+    "audio313.wav": {
+        "1 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 140.001,
+            "end": 146.459,
+            "length": 6.46
+        }
+    },
+    "audio314.wav": {
+        "1 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 18.911,
+            "end": 20.854,
+            "length": 1.94
+        },
+        "2 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 23.724,
+            "end": 25.125,
+            "length": 1.4
+        },
+        "3 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 29.203,
+            "end": 30.317,
+            "length": 1.11
+        },
+        "4 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 42.638,
+            "end": 46.552,
+            "length": 3.91
+        },
+        "5 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 77.235,
+            "end": 78.95,
+            "length": 1.72
+        },
+        "6 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 139.108,
+            "end": 142.108,
+            "length": 3.0
+        },
+        "7 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 236.498,
+            "end": 239.555,
+            "length": 3.06
+        },
+        "8 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 292.035,
+            "end": 294.921,
+            "length": 2.89
+        }
+    },
+    "audio335.wav": {
+        "12 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 132.158,
+            "end": 134.798,
+            "length": 2.64
+        },
+        "14 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 154.438,
+            "end": 158.998,
+            "length": 4.56
+        }
+    },
+    "audio336.wav": {
+        "4 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 43.566,
+            "end": 46.399,
+            "length": 2.83
+        }
+    },
+    "audio337.wav": {
+        "1 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 10.36,
+            "end": 13.92,
+            "length": 3.56
+        },
+        "8 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 154.478,
+            "end": 156.998,
+            "length": 2.52
+        },
+        "9 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 275.676,
+            "end": 299.636,
+            "length": 23.96
+        }
+    },
+    "audio338.wav": {
+        "1 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 3.633,
+            "end": 5.433,
+            "length": 1.8
+        },
+        "2 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 10.133,
+            "end": 12.766,
+            "length": 2.63
+        },
+        "3 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 15.266,
+            "end": 17.8,
+            "length": 2.53
+        },
+        "4 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 29.1,
+            "end": 32.933,
+            "length": 3.83
+        },
+        "5 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 49.666,
+            "end": 52.333,
+            "length": 2.67
+        },
+        "9 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 154.731,
+            "end": 162.731,
+            "length": 8.0
+        },
+        "10 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 165.431,
+            "end": 172.164,
+            "length": 6.73
+        },
+        "11 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 173.831,
+            "end": 177.298,
+            "length": 3.47
+        },
+        "46 event": {
+            "taxonomy": "other_amphibians",
+            "start": 21.0,
+            "end": 22.766,
+            "length": 1.77
+        },
+        "47 event": {
+            "taxonomy": "other_amphibians",
+            "start": 23.866,
+            "end": 25.466,
+            "length": 1.6
+        },
+        "48 event": {
+            "taxonomy": "other_amphibians",
+            "start": 27.233,
+            "end": 29.066,
+            "length": 1.83
+        },
+        "49 event": {
+            "taxonomy": "other_amphibians",
+            "start": 35.4,
+            "end": 36.8,
+            "length": 1.4
+        },
+        "50 event": {
+            "taxonomy": "other_amphibians",
+            "start": 41.833,
+            "end": 43.066,
+            "length": 1.23
+        },
+        "51 event": {
+            "taxonomy": "other_amphibians",
+            "start": 45.033,
+            "end": 46.166,
+            "length": 1.13
+        },
+        "52 event": {
+            "taxonomy": "other_amphibians",
+            "start": 48.499,
+            "end": 49.499,
+            "length": 1.0
+        },
+        "53 event": {
+            "taxonomy": "other_amphibians",
+            "start": 53.999,
+            "end": 55.399,
+            "length": 1.4
+        },
+        "54 event": {
+            "taxonomy": "other_amphibians",
+            "start": 92.265,
+            "end": 93.565,
+            "length": 1.3
+        }
+    },
+    "audio339.wav": {
+        "13 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 135.509,
+            "end": 137.665,
+            "length": 2.16
+        },
+        "16 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 165.887,
+            "end": 169.109,
+            "length": 3.22
+        },
+        "17 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 176.02,
+            "end": 179.375,
+            "length": 3.35
+        }
+    },
+    "audio340.wav": {
+        "14 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 156.655,
+            "end": 160.084,
+            "length": 3.43
+        },
+        "15 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 164.484,
+            "end": 168.226,
+            "length": 3.74
+        },
+        "16 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 174.826,
+            "end": 176.598,
+            "length": 1.77
+        },
+        "17 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 178.14,
+            "end": 181.426,
+            "length": 3.29
+        },
+        "18 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 183.769,
+            "end": 187.312,
+            "length": 3.54
+        },
+        "24 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 288.968,
+            "end": 290.996,
+            "length": 2.03
+        }
+    },
+    "audio342.wav": {
+        "1 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 15.866,
+            "end": 20.1,
+            "length": 4.23
+        },
+        "2 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 32.733,
+            "end": 34.933,
+            "length": 2.2
+        },
+        "3 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 35.9,
+            "end": 37.4,
+            "length": 1.5
+        },
+        "4 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 52.433,
+            "end": 54.999,
+            "length": 2.57
+        },
+        "5 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 125.965,
+            "end": 130.698,
+            "length": 4.73
+        }
+    },
+    "audio343.wav": {
+        "24 event": {
+            "taxonomy": "other_amphibians",
+            "start": 32.433,
+            "end": 33.8,
+            "length": 1.37
+        },
+        "25 event": {
+            "taxonomy": "other_amphibians",
+            "start": 34.1,
+            "end": 35.366,
+            "length": 1.27
+        },
+        "26 event": {
+            "taxonomy": "other_amphibians",
+            "start": 37.166,
+            "end": 38.466,
+            "length": 1.3
+        },
+        "27 event": {
+            "taxonomy": "other_amphibians",
+            "start": 39.199,
+            "end": 40.866,
+            "length": 1.67
+        },
+        "28 event": {
+            "taxonomy": "other_amphibians",
+            "start": 41.366,
+            "end": 42.499,
+            "length": 1.13
+        }
+    },
+    "audio358.wav": {
+        "1 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 235.197,
+            "end": 240.597,
+            "length": 5.4
+        }
+    },
+    "audio361.wav": {
+        "10 event": {
+            "taxonomy": "other_amphibians",
+            "start": 33.633,
+            "end": 34.7,
+            "length": 1.07
+        },
+        "11 event": {
+            "taxonomy": "other_amphibians",
+            "start": 37.5,
+            "end": 38.699,
+            "length": 1.2
+        },
+        "12 event": {
+            "taxonomy": "other_amphibians",
+            "start": 112.832,
+            "end": 114.665,
+            "length": 1.83
+        },
+        "13 event": {
+            "taxonomy": "other_amphibians",
+            "start": 121.032,
+            "end": 123.232,
+            "length": 2.2
+        },
+        "14 event": {
+            "taxonomy": "other_amphibians",
+            "start": 123.632,
+            "end": 124.632,
+            "length": 1.0
+        },
+        "15 event": {
+            "taxonomy": "other_amphibians",
+            "start": 125.198,
+            "end": 128.198,
+            "length": 3.0
+        },
+        "16 event": {
+            "taxonomy": "other_amphibians",
+            "start": 138.698,
+            "end": 151.798,
+            "length": 13.1
+        },
+        "17 event": {
+            "taxonomy": "other_amphibians",
+            "start": 155.698,
+            "end": 160.698,
+            "length": 5.0
+        },
+        "18 event": {
+            "taxonomy": "other_amphibians",
+            "start": 160.898,
+            "end": 166.964,
+            "length": 6.07
+        }
+    },
+    "audio362.wav": {
+        "13 event": {
+            "taxonomy": "other_amphibians",
+            "start": 2.68,
+            "end": 3.64,
+            "length": 0.96
+        },
+        "14 event": {
+            "taxonomy": "other_amphibians",
+            "start": 5.48,
+            "end": 6.64,
+            "length": 1.16
+        },
+        "15 event": {
+            "taxonomy": "other_amphibians",
+            "start": 10.84,
+            "end": 11.96,
+            "length": 1.12
+        },
+        "16 event": {
+            "taxonomy": "other_amphibians",
+            "start": 13.88,
+            "end": 15.32,
+            "length": 1.44
+        },
+        "17 event": {
+            "taxonomy": "other_amphibians",
+            "start": 16.16,
+            "end": 17.96,
+            "length": 1.8
+        },
+        "18 event": {
+            "taxonomy": "other_amphibians",
+            "start": 22.65,
+            "end": 23.725,
+            "length": 1.08
+        },
+        "19 event": {
+            "taxonomy": "other_amphibians",
+            "start": 28.65,
+            "end": 29.95,
+            "length": 1.3
+        },
+        "20 event": {
+            "taxonomy": "other_amphibians",
+            "start": 31.7,
+            "end": 32.725,
+            "length": 1.03
+        },
+        "23 event": {
+            "taxonomy": "other_amphibians",
+            "start": 37.624,
+            "end": 38.499,
+            "length": 0.88
+        },
+        "24 event": {
+            "taxonomy": "other_amphibians",
+            "start": 40.274,
+            "end": 41.674,
+            "length": 1.4
+        },
+        "25 event": {
+            "taxonomy": "other_amphibians",
+            "start": 42.349,
+            "end": 43.974,
+            "length": 1.62
+        },
+        "26 event": {
+            "taxonomy": "other_amphibians",
+            "start": 43.999,
+            "end": 45.424,
+            "length": 1.42
+        },
+        "27 event": {
+            "taxonomy": "other_amphibians",
+            "start": 45.599,
+            "end": 46.524,
+            "length": 0.93
+        },
+        "28 event": {
+            "taxonomy": "other_amphibians",
+            "start": 48.074,
+            "end": 49.024,
+            "length": 0.95
+        },
+        "29 event": {
+            "taxonomy": "other_amphibians",
+            "start": 50.124,
+            "end": 50.949,
+            "length": 0.82
+        },
+        "30 event": {
+            "taxonomy": "other_amphibians",
+            "start": 50.999,
+            "end": 51.624,
+            "length": 0.62
+        },
+        "31 event": {
+            "taxonomy": "other_amphibians",
+            "start": 53.624,
+            "end": 54.374,
+            "length": 0.75
+        },
+        "32 event": {
+            "taxonomy": "other_amphibians",
+            "start": 58.949,
+            "end": 59.824,
+            "length": 0.88
+        },
+        "33 event": {
+            "taxonomy": "other_amphibians",
+            "start": 60.449,
+            "end": 61.199,
+            "length": 0.75
+        },
+        "34 event": {
+            "taxonomy": "other_amphibians",
+            "start": 61.649,
+            "end": 62.974,
+            "length": 1.32
+        },
+        "35 event": {
+            "taxonomy": "other_amphibians",
+            "start": 63.199,
+            "end": 63.949,
+            "length": 0.75
+        },
+        "36 event": {
+            "taxonomy": "other_amphibians",
+            "start": 65.199,
+            "end": 66.099,
+            "length": 0.9
+        },
+        "37 event": {
+            "taxonomy": "other_amphibians",
+            "start": 66.149,
+            "end": 66.974,
+            "length": 0.83
+        },
+        "38 event": {
+            "taxonomy": "other_amphibians",
+            "start": 68.224,
+            "end": 69.474,
+            "length": 1.25
+        },
+        "39 event": {
+            "taxonomy": "other_amphibians",
+            "start": 71.274,
+            "end": 72.874,
+            "length": 1.6
+        },
+        "40 event": {
+            "taxonomy": "other_amphibians",
+            "start": 74.099,
+            "end": 75.599,
+            "length": 1.5
+        },
+        "41 event": {
+            "taxonomy": "other_amphibians",
+            "start": 77.149,
+            "end": 78.324,
+            "length": 1.17
+        },
+        "42 event": {
+            "taxonomy": "other_amphibians",
+            "start": 79.899,
+            "end": 81.299,
+            "length": 1.4
+        },
+        "43 event": {
+            "taxonomy": "other_amphibians",
+            "start": 82.424,
+            "end": 83.699,
+            "length": 1.27
+        },
+        "44 event": {
+            "taxonomy": "other_amphibians",
+            "start": 84.874,
+            "end": 86.424,
+            "length": 1.55
+        },
+        "45 event": {
+            "taxonomy": "other_amphibians",
+            "start": 87.524,
+            "end": 88.649,
+            "length": 1.12
+        },
+        "46 event": {
+            "taxonomy": "other_amphibians",
+            "start": 88.699,
+            "end": 89.749,
+            "length": 1.05
+        },
+        "47 event": {
+            "taxonomy": "other_amphibians",
+            "start": 90.424,
+            "end": 91.449,
+            "length": 1.02
+        },
+        "48 event": {
+            "taxonomy": "other_amphibians",
+            "start": 91.474,
+            "end": 92.549,
+            "length": 1.08
+        },
+        "49 event": {
+            "taxonomy": "other_amphibians",
+            "start": 93.574,
+            "end": 95.049,
+            "length": 1.48
+        },
+        "50 event": {
+            "taxonomy": "other_amphibians",
+            "start": 95.974,
+            "end": 96.824,
+            "length": 0.85
+        },
+        "51 event": {
+            "taxonomy": "other_amphibians",
+            "start": 97.149,
+            "end": 98.649,
+            "length": 1.5
+        },
+        "52 event": {
+            "taxonomy": "other_amphibians",
+            "start": 99.649,
+            "end": 101.124,
+            "length": 1.47
+        },
+        "53 event": {
+            "taxonomy": "other_amphibians",
+            "start": 102.374,
+            "end": 103.524,
+            "length": 1.15
+        },
+        "54 event": {
+            "taxonomy": "other_amphibians",
+            "start": 106.324,
+            "end": 107.374,
+            "length": 1.05
+        },
+        "55 event": {
+            "taxonomy": "other_amphibians",
+            "start": 122.498,
+            "end": 123.648,
+            "length": 1.15
+        },
+        "56 event": {
+            "taxonomy": "other_amphibians",
+            "start": 129.398,
+            "end": 130.473,
+            "length": 1.08
+        },
+        "57 event": {
+            "taxonomy": "other_amphibians",
+            "start": 132.523,
+            "end": 133.673,
+            "length": 1.15
+        },
+        "58 event": {
+            "taxonomy": "other_amphibians",
+            "start": 141.898,
+            "end": 142.798,
+            "length": 0.9
+        },
+        "59 event": {
+            "taxonomy": "other_amphibians",
+            "start": 145.523,
+            "end": 146.523,
+            "length": 1.0
+        },
+        "60 event": {
+            "taxonomy": "other_amphibians",
+            "start": 148.848,
+            "end": 149.748,
+            "length": 0.9
+        },
+        "61 event": {
+            "taxonomy": "other_amphibians",
+            "start": 150.048,
+            "end": 150.973,
+            "length": 0.93
+        },
+        "62 event": {
+            "taxonomy": "other_amphibians",
+            "start": 161.873,
+            "end": 162.773,
+            "length": 0.9
+        },
+        "63 event": {
+            "taxonomy": "other_amphibians",
+            "start": 163.248,
+            "end": 166.148,
+            "length": 2.9
+        },
+        "64 event": {
+            "taxonomy": "other_amphibians",
+            "start": 166.373,
+            "end": 169.248,
+            "length": 2.88
+        },
+        "67 event": {
+            "taxonomy": "other_amphibians",
+            "start": 181.773,
+            "end": 183.123,
+            "length": 1.35
+        },
+        "68 event": {
+            "taxonomy": "other_amphibians",
+            "start": 185.648,
+            "end": 186.673,
+            "length": 1.03
+        },
+        "69 event": {
+            "taxonomy": "other_amphibians",
+            "start": 189.147,
+            "end": 190.322,
+            "length": 1.18
+        },
+        "70 event": {
+            "taxonomy": "other_amphibians",
+            "start": 199.447,
+            "end": 200.772,
+            "length": 1.32
+        }
+    },
+    "audio363.wav": {
+        "19 event": {
+            "taxonomy": "other_amphibians",
+            "start": 187.677,
+            "end": 190.317,
+            "length": 2.64
+        },
+        "20 event": {
+            "taxonomy": "other_amphibians",
+            "start": 286.876,
+            "end": 288.996,
+            "length": 2.12
+        }
+    },
+    "audio364.wav": {
+        "2 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 158.198,
+            "end": 166.998,
+            "length": 8.8
+        }
+    },
+    "audio366.wav": {
+        "1 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 61.849,
+            "end": 63.999,
+            "length": 2.15
+        },
+        "2 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 64.374,
+            "end": 68.849,
+            "length": 4.48
+        },
+        "4 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 97.424,
+            "end": 113.023,
+            "length": 15.6
+        },
+        "5 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 146.823,
+            "end": 156.698,
+            "length": 9.88
+        }
+    },
+    "audio382.wav": {
+        "1 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 225.03,
+            "end": 227.197,
+            "length": 2.17
+        }
+    },
+    "audio383.wav": {
+        "1 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 146.131,
+            "end": 149.498,
+            "length": 3.37
+        },
+        "2 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 151.031,
+            "end": 154.065,
+            "length": 3.03
+        },
+        "4 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 180.564,
+            "end": 182.964,
+            "length": 2.4
+        },
+        "5 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 192.231,
+            "end": 195.164,
+            "length": 2.93
+        }
+    },
+    "audio384.wav": {
+        "2 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 101.941,
+            "end": 105.97,
+            "length": 4.03
+        },
+        "3 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 107.599,
+            "end": 111.284,
+            "length": 3.69
+        },
+        "4 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 118.113,
+            "end": 121.37,
+            "length": 3.26
+        },
+        "5 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 126.484,
+            "end": 128.97,
+            "length": 2.49
+        },
+        "6 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 135.255,
+            "end": 140.255,
+            "length": 5.0
+        },
+        "7 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 144.312,
+            "end": 148.741,
+            "length": 4.43
+        },
+        "8 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 150.169,
+            "end": 154.512,
+            "length": 4.34
+        },
+        "9 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 158.598,
+            "end": 162.026,
+            "length": 3.43
+        },
+        "10 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 162.226,
+            "end": 165.426,
+            "length": 3.2
+        },
+        "13 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 189.255,
+            "end": 191.683,
+            "length": 2.43
+        },
+        "14 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 200.654,
+            "end": 202.997,
+            "length": 2.34
+        }
+    },
+    "audio385.wav": {
+        "1 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 23.16,
+            "end": 26.2,
+            "length": 3.04
+        },
+        "3 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 166.838,
+            "end": 170.118,
+            "length": 3.28
+        }
+    },
+    "audio386.wav": {
+        "1 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 174.398,
+            "end": 176.531,
+            "length": 2.13
+        }
+    },
+    "audio407.wav": {
+        "1 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 44.633,
+            "end": 48.266,
+            "length": 3.63
+        },
+        "2 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 61.766,
+            "end": 64.266,
+            "length": 2.5
+        },
+        "3 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 67.332,
+            "end": 70.532,
+            "length": 3.2
+        },
+        "4 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 95.532,
+            "end": 99.099,
+            "length": 3.57
+        },
+        "5 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 117.265,
+            "end": 120.865,
+            "length": 3.6
+        },
+        "6 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 132.432,
+            "end": 136.065,
+            "length": 3.63
+        },
+        "8 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 181.698,
+            "end": 185.864,
+            "length": 4.17
+        },
+        "9 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 218.264,
+            "end": 221.63,
+            "length": 3.37
+        },
+        "10 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 265.63,
+            "end": 268.963,
+            "length": 3.33
+        }
+    },
+    "audio408.wav": {
+        "1 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 2.167,
+            "end": 5.1,
+            "length": 2.93
+        },
+        "2 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 34.833,
+            "end": 37.766,
+            "length": 2.93
+        },
+        "3 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 53.033,
+            "end": 56.033,
+            "length": 3.0
+        },
+        "4 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 108.165,
+            "end": 111.099,
+            "length": 2.93
+        },
+        "5 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 121.198,
+            "end": 124.098,
+            "length": 2.9
+        },
+        "6 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 150.665,
+            "end": 153.865,
+            "length": 3.2
+        },
+        "7 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 216.13,
+            "end": 220.13,
+            "length": 4.0
+        },
+        "9 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 257.463,
+            "end": 260.663,
+            "length": 3.2
+        },
+        "10 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 268.93,
+            "end": 272.53,
+            "length": 3.6
+        },
+        "11 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 290.763,
+            "end": 294.996,
+            "length": 4.23
+        }
+    },
+    "audio409.wav": {
+        "1 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 43.657,
+            "end": 46.142,
+            "length": 2.49
+        },
+        "3 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 136.884,
+            "end": 139.684,
+            "length": 2.8
+        },
+        "4 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 181.855,
+            "end": 184.626,
+            "length": 2.77
+        },
+        "5 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 202.654,
+            "end": 204.626,
+            "length": 1.97
+        },
+        "6 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 214.626,
+            "end": 216.169,
+            "length": 1.54
+        },
+        "7 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 243.568,
+            "end": 246.168,
+            "length": 2.6
+        }
+    },
+    "audio410.wav": {
+        "2 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 170.998,
+            "end": 174.918,
+            "length": 3.92
+        },
+        "3 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 261.157,
+            "end": 264.156,
+            "length": 3.0
+        },
+        "4 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 281.916,
+            "end": 284.876,
+            "length": 2.96
+        },
+        "5 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 297.156,
+            "end": 299.996,
+            "length": 2.84
+        }
+    },
+    "audio411.wav": {
+        "1 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 290.282,
+            "end": 292.653,
+            "length": 2.37
+        }
+    },
+    "audio413.wav": {
+        "1 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 33.2,
+            "end": 36.4,
+            "length": 3.2
+        },
+        "2 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 72.199,
+            "end": 74.766,
+            "length": 2.57
+        },
+        "3 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 90.465,
+            "end": 94.165,
+            "length": 3.7
+        },
+        "4 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 123.998,
+            "end": 127.632,
+            "length": 3.63
+        },
+        "5 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 218.03,
+            "end": 221.33,
+            "length": 3.3
+        },
+        "6 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 252.93,
+            "end": 256.363,
+            "length": 3.43
+        }
+    },
+    "audio415.wav": {
+        "15 event": {
+            "taxonomy": "other_amphibians",
+            "start": 139.655,
+            "end": 140.712,
+            "length": 1.06
+        }
+    },
+    "audio431.wav": {
+        "1 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 72.266,
+            "end": 77.732,
+            "length": 5.47
+        },
+        "5 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 262.63,
+            "end": 268.763,
+            "length": 6.13
+        },
+        "6 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 276.363,
+            "end": 278.396,
+            "length": 2.03
+        }
+    },
+    "audio437.wav": {
+        "1 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 138.198,
+            "end": 140.698,
+            "length": 2.5
+        },
+        "2 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 142.465,
+            "end": 143.198,
+            "length": 0.73
+        },
+        "3 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 145.431,
+            "end": 146.198,
+            "length": 0.77
+        },
+        "4 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 148.498,
+            "end": 149.298,
+            "length": 0.8
+        }
+    },
+    "audio503.wav": {
+        "1 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 77.999,
+            "end": 79.599,
+            "length": 1.6
+        }
+    },
+    "audio510.wav": {
+        "40 event": {
+            "taxonomy": "other_amphibians",
+            "start": 20.366,
+            "end": 21.466,
+            "length": 1.1
+        },
+        "42 event": {
+            "taxonomy": "other_amphibians",
+            "start": 27.666,
+            "end": 28.766,
+            "length": 1.1
+        },
+        "43 event": {
+            "taxonomy": "other_amphibians",
+            "start": 31.666,
+            "end": 32.433,
+            "length": 0.77
+        },
+        "44 event": {
+            "taxonomy": "other_amphibians",
+            "start": 38.933,
+            "end": 39.899,
+            "length": 0.97
+        },
+        "45 event": {
+            "taxonomy": "other_amphibians",
+            "start": 67.999,
+            "end": 69.166,
+            "length": 1.17
+        }
+    },
+    "audio529.wav": {
+        "17 event": {
+            "taxonomy": "other_amphibians",
+            "start": 31.533,
+            "end": 35.3,
+            "length": 3.77
+        },
+        "18 event": {
+            "taxonomy": "other_amphibians",
+            "start": 41.399,
+            "end": 45.566,
+            "length": 4.17
+        },
+        "19 event": {
+            "taxonomy": "other_amphibians",
+            "start": 68.799,
+            "end": 72.866,
+            "length": 4.07
+        },
+        "21 event": {
+            "taxonomy": "other_amphibians",
+            "start": 96.765,
+            "end": 101.099,
+            "length": 4.33
+        },
+        "23 event": {
+            "taxonomy": "other_amphibians",
+            "start": 144.331,
+            "end": 146.665,
+            "length": 2.33
+        },
+        "24 event": {
+            "taxonomy": "other_amphibians",
+            "start": 168.164,
+            "end": 172.198,
+            "length": 4.03
+        },
+        "25 event": {
+            "taxonomy": "other_amphibians",
+            "start": 185.764,
+            "end": 189.397,
+            "length": 3.63
+        },
+        "26 event": {
+            "taxonomy": "other_amphibians",
+            "start": 194.197,
+            "end": 198.397,
+            "length": 4.2
+        },
+        "27 event": {
+            "taxonomy": "other_amphibians",
+            "start": 207.531,
+            "end": 211.464,
+            "length": 3.93
+        },
+        "28 event": {
+            "taxonomy": "other_amphibians",
+            "start": 222.03,
+            "end": 225.53,
+            "length": 3.5
+        },
+        "29 event": {
+            "taxonomy": "other_amphibians",
+            "start": 234.264,
+            "end": 238.163,
+            "length": 3.9
+        },
+        "31 event": {
+            "taxonomy": "other_amphibians",
+            "start": 273.896,
+            "end": 277.496,
+            "length": 3.6
+        },
+        "32 event": {
+            "taxonomy": "other_amphibians",
+            "start": 283.096,
+            "end": 286.663,
+            "length": 3.57
+        }
+    },
+    "audio530.wav": {
+        "1 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 150.498,
+            "end": 152.431,
+            "length": 1.93
+        },
+        "2 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 152.665,
+            "end": 154.598,
+            "length": 1.93
+        },
+        "3 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 154.898,
+            "end": 156.698,
+            "length": 1.8
+        },
+        "4 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 159.931,
+            "end": 161.331,
+            "length": 1.4
+        },
+        "7 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 166.264,
+            "end": 168.031,
+            "length": 1.77
+        },
+        "8 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 168.431,
+            "end": 170.431,
+            "length": 2.0
+        },
+        "9 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 171.031,
+            "end": 173.198,
+            "length": 2.17
+        },
+        "10 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 173.598,
+            "end": 175.831,
+            "length": 2.23
+        },
+        "11 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 176.031,
+            "end": 178.164,
+            "length": 2.13
+        },
+        "12 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 178.198,
+            "end": 180.598,
+            "length": 2.4
+        },
+        "13 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 181.598,
+            "end": 183.964,
+            "length": 2.37
+        },
+        "15 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 187.964,
+            "end": 190.197,
+            "length": 2.23
+        },
+        "21 event": {
+            "taxonomy": "other_amphibians",
+            "start": 21.833,
+            "end": 24.2,
+            "length": 2.37
+        },
+        "22 event": {
+            "taxonomy": "other_amphibians",
+            "start": 65.166,
+            "end": 68.299,
+            "length": 3.13
+        },
+        "23 event": {
+            "taxonomy": "other_amphibians",
+            "start": 127.598,
+            "end": 130.832,
+            "length": 3.23
+        },
+        "24 event": {
+            "taxonomy": "other_amphibians",
+            "start": 141.065,
+            "end": 145.098,
+            "length": 4.03
+        },
+        "28 event": {
+            "taxonomy": "other_amphibians",
+            "start": 204.164,
+            "end": 207.331,
+            "length": 3.17
+        },
+        "29 event": {
+            "taxonomy": "other_amphibians",
+            "start": 226.43,
+            "end": 230.43,
+            "length": 4.0
+        }
+    },
+    "audio531.wav": {
+        "1 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 197.764,
+            "end": 198.897,
+            "length": 1.13
+        },
+        "3 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 200.231,
+            "end": 201.397,
+            "length": 1.17
+        },
+        "4 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 202.931,
+            "end": 203.997,
+            "length": 1.07
+        },
+        "5 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 204.197,
+            "end": 205.197,
+            "length": 1.0
+        },
+        "6 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 206.131,
+            "end": 207.331,
+            "length": 1.2
+        },
+        "8 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 213.497,
+            "end": 214.43,
+            "length": 0.93
+        },
+        "9 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 219.13,
+            "end": 220.064,
+            "length": 0.93
+        },
+        "10 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 221.164,
+            "end": 222.297,
+            "length": 1.13
+        },
+        "11 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 223.164,
+            "end": 224.23,
+            "length": 1.07
+        },
+        "13 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 234.93,
+            "end": 236.064,
+            "length": 1.13
+        },
+        "14 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 239.163,
+            "end": 240.163,
+            "length": 1.0
+        },
+        "15 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 241.063,
+            "end": 242.163,
+            "length": 1.1
+        },
+        "19 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 261.197,
+            "end": 262.763,
+            "length": 1.57
+        },
+        "24 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 270.063,
+            "end": 271.296,
+            "length": 1.23
+        },
+        "25 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 277.43,
+            "end": 278.696,
+            "length": 1.27
+        },
+        "26 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 294.429,
+            "end": 295.996,
+            "length": 1.57
+        },
+        "27 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 29.433,
+            "end": 34.033,
+            "length": 4.6
+        },
+        "28 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 121.532,
+            "end": 124.632,
+            "length": 3.1
+        },
+        "29 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 145.298,
+            "end": 149.831,
+            "length": 4.53
+        },
+        "30 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 164.198,
+            "end": 167.898,
+            "length": 3.7
+        },
+        "31 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 181.898,
+            "end": 185.064,
+            "length": 3.17
+        }
+    },
+    "audio532.wav": {
+        "1 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 124.665,
+            "end": 125.998,
+            "length": 1.33
+        },
+        "2 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 126.332,
+            "end": 127.565,
+            "length": 1.23
+        },
+        "3 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 127.765,
+            "end": 129.132,
+            "length": 1.37
+        },
+        "5 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 155.312,
+            "end": 156.341,
+            "length": 1.03
+        },
+        "9 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 193.169,
+            "end": 194.312,
+            "length": 1.14
+        },
+        "10 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 194.712,
+            "end": 195.969,
+            "length": 1.26
+        },
+        "11 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 196.426,
+            "end": 197.683,
+            "length": 1.26
+        },
+        "12 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 198.055,
+            "end": 199.283,
+            "length": 1.23
+        },
+        "13 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 6.4,
+            "end": 14.5,
+            "length": 8.1
+        },
+        "14 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 112.565,
+            "end": 114.998,
+            "length": 2.43
+        },
+        "15 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 116.698,
+            "end": 118.898,
+            "length": 2.2
+        },
+        "16 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 119.432,
+            "end": 121.598,
+            "length": 2.17
+        },
+        "17 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 121.998,
+            "end": 124.298,
+            "length": 2.3
+        },
+        "19 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 138.498,
+            "end": 140.665,
+            "length": 2.17
+        },
+        "20 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 143.827,
+            "end": 147.398,
+            "length": 3.57
+        },
+        "21 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 157.426,
+            "end": 161.541,
+            "length": 4.12
+        },
+        "22 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 165.969,
+            "end": 169.055,
+            "length": 3.09
+        },
+        "23 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 172.341,
+            "end": 176.683,
+            "length": 4.34
+        },
+        "24 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 179.94,
+            "end": 183.655,
+            "length": 3.72
+        },
+        "26 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 201.454,
+            "end": 204.912,
+            "length": 3.46
+        },
+        "27 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 210.111,
+            "end": 215.683,
+            "length": 5.57
+        },
+        "30 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 224.968,
+            "end": 229.311,
+            "length": 4.34
+        },
+        "31 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 229.34,
+            "end": 236.683,
+            "length": 7.34
+        },
+        "32 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 237.654,
+            "end": 241.968,
+            "length": 4.31
+        },
+        "33 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 242.197,
+            "end": 245.968,
+            "length": 3.77
+        },
+        "34 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 249.14,
+            "end": 252.825,
+            "length": 3.69
+        },
+        "35 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 255.939,
+            "end": 262.311,
+            "length": 6.37
+        },
+        "36 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 267.196,
+            "end": 272.196,
+            "length": 5.0
+        },
+        "37 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 275.311,
+            "end": 280.625,
+            "length": 5.31
+        },
+        "38 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 285.853,
+            "end": 290.482,
+            "length": 4.63
+        },
+        "39 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 293.31,
+            "end": 299.139,
+            "length": 5.83
+        }
+    },
+    "audio535.wav": {
+        "2 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 72.899,
+            "end": 74.299,
+            "length": 1.4
+        },
+        "3 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 74.932,
+            "end": 76.599,
+            "length": 1.67
+        },
+        "4 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 76.832,
+            "end": 78.332,
+            "length": 1.5
+        },
+        "5 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 128.032,
+            "end": 129.598,
+            "length": 1.57
+        },
+        "6 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 131.965,
+            "end": 133.798,
+            "length": 1.83
+        },
+        "9 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 194.397,
+            "end": 196.131,
+            "length": 1.73
+        },
+        "10 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 200.397,
+            "end": 202.564,
+            "length": 2.17
+        }
+    },
+    "audio540.wav": {
+        "1 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 261.397,
+            "end": 264.396,
+            "length": 3.0
+        }
+    },
+    "audio541.wav": {
+        "11 event": {
+            "taxonomy": "other_amphibians",
+            "start": 76.266,
+            "end": 77.199,
+            "length": 0.93
+        },
+        "12 event": {
+            "taxonomy": "other_amphibians",
+            "start": 77.366,
+            "end": 78.299,
+            "length": 0.93
+        }
+    },
+    "audio550.wav": {
+        "1 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 276.663,
+            "end": 277.963,
+            "length": 1.3
+        }
+    },
+    "audio552.wav": {
+        "1 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 197.331,
+            "end": 199.731,
+            "length": 2.4
+        },
+        "2 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 207.664,
+            "end": 210.131,
+            "length": 2.47
+        },
+        "3 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 231.464,
+            "end": 234.63,
+            "length": 3.17
+        },
+        "4 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 244.73,
+            "end": 248.363,
+            "length": 3.63
+        },
+        "6 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 280.73,
+            "end": 283.796,
+            "length": 3.07
+        }
+    },
+    "audio553.wav": {
+        "3 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 128.165,
+            "end": 131.198,
+            "length": 3.03
+        }
+    },
+    "audio554.wav": {
+        "1 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 2.733,
+            "end": 4.333,
+            "length": 1.6
+        },
+        "2 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 6.233,
+            "end": 12.3,
+            "length": 6.07
+        },
+        "4 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 46.766,
+            "end": 50.099,
+            "length": 3.33
+        }
+    },
+    "audio555.wav": {
+        "3 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 1.9,
+            "end": 5.567,
+            "length": 3.67
+        },
+        "4 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 12.966,
+            "end": 18.3,
+            "length": 5.33
+        },
+        "5 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 201.697,
+            "end": 203.797,
+            "length": 2.1
+        },
+        "6 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 208.597,
+            "end": 210.231,
+            "length": 1.63
+        },
+        "7 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 219.03,
+            "end": 222.397,
+            "length": 3.37
+        },
+        "8 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 225.63,
+            "end": 228.864,
+            "length": 3.23
+        },
+        "10 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 295.729,
+            "end": 299.729,
+            "length": 4.0
+        }
+    },
+    "audio556.wav": {
+        "1 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 19.133,
+            "end": 21.0,
+            "length": 1.87
+        },
+        "2 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 21.566,
+            "end": 23.433,
+            "length": 1.87
+        },
+        "3 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 68.766,
+            "end": 71.032,
+            "length": 2.27
+        },
+        "4 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 75.066,
+            "end": 77.932,
+            "length": 2.87
+        },
+        "5 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 88.765,
+            "end": 90.899,
+            "length": 2.13
+        },
+        "6 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 91.065,
+            "end": 94.532,
+            "length": 3.47
+        },
+        "7 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 95.832,
+            "end": 98.299,
+            "length": 2.47
+        },
+        "8 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 98.332,
+            "end": 100.265,
+            "length": 1.93
+        },
+        "9 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 107.199,
+            "end": 109.599,
+            "length": 2.4
+        },
+        "11 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 113.732,
+            "end": 118.665,
+            "length": 4.93
+        },
+        "12 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 170.898,
+            "end": 176.664,
+            "length": 5.77
+        },
+        "13 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 250.997,
+            "end": 253.097,
+            "length": 2.1
+        },
+        "14 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 266.93,
+            "end": 269.963,
+            "length": 3.03
+        },
+        "15 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 289.796,
+            "end": 293.729,
+            "length": 3.93
+        }
+    },
+    "audio557.wav": {
+        "1 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 34.733,
+            "end": 38.933,
+            "length": 4.2
+        },
+        "2 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 45.499,
+            "end": 50.033,
+            "length": 4.53
+        },
+        "3 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 74.899,
+            "end": 76.566,
+            "length": 1.67
+        },
+        "4 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 76.932,
+            "end": 79.632,
+            "length": 2.7
+        },
+        "5 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 139.031,
+            "end": 145.431,
+            "length": 6.4
+        },
+        "6 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 187.564,
+            "end": 189.897,
+            "length": 2.33
+        },
+        "7 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 197.064,
+            "end": 198.664,
+            "length": 1.6
+        },
+        "8 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 201.631,
+            "end": 205.097,
+            "length": 3.47
+        },
+        "9 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 205.564,
+            "end": 208.297,
+            "length": 2.73
+        },
+        "10 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 217.564,
+            "end": 220.764,
+            "length": 3.2
+        },
+        "11 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 221.13,
+            "end": 223.43,
+            "length": 2.3
+        },
+        "12 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 224.43,
+            "end": 230.53,
+            "length": 6.1
+        }
+    },
+    "audio558.wav": {
+        "1 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 172.698,
+            "end": 174.131,
+            "length": 1.43
+        },
+        "2 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 174.864,
+            "end": 175.998,
+            "length": 1.13
+        },
+        "3 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 179.564,
+            "end": 180.764,
+            "length": 1.2
+        },
+        "4 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 182.698,
+            "end": 183.931,
+            "length": 1.23
+        },
+        "6 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 20.266,
+            "end": 21.7,
+            "length": 1.43
+        },
+        "7 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 17.533,
+            "end": 18.7,
+            "length": 1.17
+        },
+        "8 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 25.733,
+            "end": 27.633,
+            "length": 1.9
+        },
+        "9 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 33.766,
+            "end": 35.933,
+            "length": 2.17
+        },
+        "10 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 38.166,
+            "end": 39.866,
+            "length": 1.7
+        },
+        "11 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 41.233,
+            "end": 42.933,
+            "length": 1.7
+        },
+        "12 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 47.933,
+            "end": 49.366,
+            "length": 1.43
+        },
+        "13 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 50.733,
+            "end": 52.499,
+            "length": 1.77
+        },
+        "14 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 55.433,
+            "end": 57.166,
+            "length": 1.73
+        },
+        "15 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 57.899,
+            "end": 62.666,
+            "length": 4.77
+        },
+        "16 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 63.666,
+            "end": 65.299,
+            "length": 1.63
+        },
+        "17 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 77.566,
+            "end": 79.932,
+            "length": 2.37
+        },
+        "18 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 80.199,
+            "end": 81.732,
+            "length": 1.53
+        },
+        "19 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 84.466,
+            "end": 86.566,
+            "length": 2.1
+        },
+        "20 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 87.565,
+            "end": 89.865,
+            "length": 2.3
+        },
+        "21 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 92.732,
+            "end": 94.832,
+            "length": 2.1
+        },
+        "22 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 96.032,
+            "end": 98.399,
+            "length": 2.37
+        },
+        "23 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 100.532,
+            "end": 105.065,
+            "length": 4.53
+        },
+        "24 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 110.865,
+            "end": 112.798,
+            "length": 1.93
+        },
+        "25 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 118.632,
+            "end": 120.165,
+            "length": 1.53
+        },
+        "26 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 120.798,
+            "end": 122.765,
+            "length": 1.97
+        },
+        "27 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 146.998,
+            "end": 148.331,
+            "length": 1.33
+        }
+    },
+    "audio561.wav": {
+        "1 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 92.465,
+            "end": 93.799,
+            "length": 1.33
+        }
+    },
+    "audio571.wav": {
+        "9 event": {
+            "taxonomy": "other_amphibians",
+            "start": 152.931,
+            "end": 154.331,
+            "length": 1.4
+        },
+        "10 event": {
+            "taxonomy": "other_amphibians",
+            "start": 154.598,
+            "end": 158.031,
+            "length": 3.43
+        },
+        "11 event": {
+            "taxonomy": "other_amphibians",
+            "start": 158.098,
+            "end": 160.631,
+            "length": 2.53
+        },
+        "12 event": {
+            "taxonomy": "other_amphibians",
+            "start": 161.598,
+            "end": 164.498,
+            "length": 2.9
+        }
+    },
+    "audio575.wav": {
+        "2 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 18.3,
+            "end": 23.2,
+            "length": 4.9
+        },
+        "3 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 34.333,
+            "end": 37.733,
+            "length": 3.4
+        },
+        "4 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 43.299,
+            "end": 45.599,
+            "length": 2.3
+        },
+        "5 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 59.266,
+            "end": 64.866,
+            "length": 5.6
+        },
+        "6 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 95.599,
+            "end": 98.632,
+            "length": 3.03
+        },
+        "7 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 98.899,
+            "end": 103.365,
+            "length": 4.47
+        },
+        "8 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 104.999,
+            "end": 108.565,
+            "length": 3.57
+        },
+        "9 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 115.198,
+            "end": 118.432,
+            "length": 3.23
+        },
+        "12 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 243.03,
+            "end": 245.363,
+            "length": 2.33
+        },
+        "13 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 246.097,
+            "end": 249.863,
+            "length": 3.77
+        },
+        "14 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 257.163,
+            "end": 261.23,
+            "length": 4.07
+        },
+        "15 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 273.03,
+            "end": 276.863,
+            "length": 3.83
+        },
+        "16 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 279.33,
+            "end": 283.396,
+            "length": 4.07
+        }
+    },
+    "audio576.wav": {
+        "1 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 50.499,
+            "end": 58.233,
+            "length": 7.73
+        },
+        "2 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 58.666,
+            "end": 67.732,
+            "length": 9.07
+        }
+    },
+    "audio577.wav": {
+        "1 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 15.7,
+            "end": 18.7,
+            "length": 3.0
+        },
+        "2 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 20.166,
+            "end": 22.866,
+            "length": 2.7
+        },
+        "3 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 24.033,
+            "end": 30.533,
+            "length": 6.5
+        },
+        "4 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 30.666,
+            "end": 39.166,
+            "length": 8.5
+        },
+        "5 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 49.399,
+            "end": 58.533,
+            "length": 9.13
+        },
+        "6 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 60.299,
+            "end": 64.966,
+            "length": 4.67
+        },
+        "8 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 86.099,
+            "end": 96.665,
+            "length": 10.57
+        },
+        "9 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 100.965,
+            "end": 109.332,
+            "length": 8.37
+        },
+        "10 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 109.499,
+            "end": 111.199,
+            "length": 1.7
+        },
+        "11 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 112.399,
+            "end": 116.165,
+            "length": 3.77
+        },
+        "12 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 148.665,
+            "end": 161.465,
+            "length": 12.8
+        },
+        "13 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 189.231,
+            "end": 194.664,
+            "length": 5.43
+        },
+        "14 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 197.064,
+            "end": 201.831,
+            "length": 4.77
+        },
+        "15 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 236.63,
+            "end": 242.397,
+            "length": 5.77
+        },
+        "16 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 250.163,
+            "end": 255.297,
+            "length": 5.13
+        },
+        "17 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 271.03,
+            "end": 274.096,
+            "length": 3.07
+        },
+        "18 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 280.996,
+            "end": 286.33,
+            "length": 5.33
+        }
+    },
+    "audio578.wav": {
+        "1 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 80.699,
+            "end": 85.899,
+            "length": 5.2
+        },
+        "2 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 132.165,
+            "end": 141.898,
+            "length": 9.73
+        },
+        "3 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 198.364,
+            "end": 208.297,
+            "length": 9.93
+        },
+        "4 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 273.43,
+            "end": 277.763,
+            "length": 4.33
+        },
+        "5 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 285.763,
+            "end": 293.696,
+            "length": 7.93
+        }
+    },
+    "audio581.wav": {
+        "1 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 0.167,
+            "end": 2.667,
+            "length": 2.5
+        },
+        "2 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 20.766,
+            "end": 27.066,
+            "length": 6.3
+        },
+        "3 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 27.1,
+            "end": 29.833,
+            "length": 2.73
+        },
+        "5 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 43.499,
+            "end": 50.833,
+            "length": 7.33
+        },
+        "6 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 57.666,
+            "end": 60.566,
+            "length": 2.9
+        },
+        "7 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 65.299,
+            "end": 67.699,
+            "length": 2.4
+        },
+        "8 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 85.632,
+            "end": 92.699,
+            "length": 7.07
+        },
+        "9 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 93.265,
+            "end": 97.499,
+            "length": 4.23
+        },
+        "10 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 112.132,
+            "end": 114.132,
+            "length": 2.0
+        },
+        "11 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 117.432,
+            "end": 119.565,
+            "length": 2.13
+        },
+        "12 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 168.198,
+            "end": 172.964,
+            "length": 4.77
+        },
+        "13 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 173.131,
+            "end": 175.131,
+            "length": 2.0
+        },
+        "14 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 176.331,
+            "end": 180.098,
+            "length": 3.77
+        },
+        "15 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 209.531,
+            "end": 212.064,
+            "length": 2.53
+        },
+        "16 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 220.33,
+            "end": 223.164,
+            "length": 2.83
+        },
+        "17 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 233.597,
+            "end": 236.33,
+            "length": 2.73
+        },
+        "18 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 236.43,
+            "end": 241.83,
+            "length": 5.4
+        },
+        "19 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 245.897,
+            "end": 248.763,
+            "length": 2.87
+        },
+        "20 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 250.497,
+            "end": 254.03,
+            "length": 3.53
+        },
+        "21 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 273.43,
+            "end": 276.43,
+            "length": 3.0
+        },
+        "22 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 276.496,
+            "end": 284.763,
+            "length": 8.27
+        },
+        "23 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 284.963,
+            "end": 288.363,
+            "length": 3.4
+        }
+    },
+    "audio582.wav": {
+        "1 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 90.265,
+            "end": 92.432,
+            "length": 2.17
+        }
+    },
+    "audio589.wav": {
+        "17 event": {
+            "taxonomy": "other_amphibians",
+            "start": 136.965,
+            "end": 138.331,
+            "length": 1.37
+        }
+    },
+    "audio590.wav": {
+        "7 event": {
+            "taxonomy": "other_amphibians",
+            "start": 55.666,
+            "end": 56.899,
+            "length": 1.23
+        }
+    },
+    "audio595.wav": {
+        "4 event": {
+            "taxonomy": "other_amphibians",
+            "start": 234.33,
+            "end": 235.197,
+            "length": 0.87
+        },
+        "7 event": {
+            "taxonomy": "other_amphibians",
+            "start": 238.697,
+            "end": 240.063,
+            "length": 1.37
+        },
+        "10 event": {
+            "taxonomy": "other_amphibians",
+            "start": 244.13,
+            "end": 245.297,
+            "length": 1.17
+        },
+        "13 event": {
+            "taxonomy": "other_amphibians",
+            "start": 249.297,
+            "end": 250.463,
+            "length": 1.17
+        },
+        "14 event": {
+            "taxonomy": "other_amphibians",
+            "start": 250.53,
+            "end": 251.697,
+            "length": 1.17
+        },
+        "18 event": {
+            "taxonomy": "other_amphibians",
+            "start": 255.03,
+            "end": 256.163,
+            "length": 1.13
+        },
+        "19 event": {
+            "taxonomy": "other_amphibians",
+            "start": 256.663,
+            "end": 257.83,
+            "length": 1.17
+        }
+    },
+    "audio596.wav": {
+        "2 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 182.098,
+            "end": 183.198,
+            "length": 1.1
+        }
+    },
+    "audio598.wav": {
+        "1 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 2.067,
+            "end": 4.7,
+            "length": 2.63
+        },
+        "2 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 89.565,
+            "end": 90.765,
+            "length": 1.2
+        },
+        "3 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 99.099,
+            "end": 99.965,
+            "length": 0.87
+        },
+        "4 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 101.232,
+            "end": 102.465,
+            "length": 1.23
+        },
+        "8 event": {
+            "taxonomy": "other_amphibians",
+            "start": 136.032,
+            "end": 139.365,
+            "length": 3.33
+        },
+        "9 event": {
+            "taxonomy": "other_amphibians",
+            "start": 142.731,
+            "end": 147.331,
+            "length": 4.6
+        },
+        "10 event": {
+            "taxonomy": "other_amphibians",
+            "start": 147.631,
+            "end": 148.998,
+            "length": 1.37
+        },
+        "11 event": {
+            "taxonomy": "other_amphibians",
+            "start": 267.796,
+            "end": 269.23,
+            "length": 1.43
+        }
+    },
+    "audio599.wav": {
+        "2 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 54.166,
+            "end": 65.866,
+            "length": 11.7
+        },
+        "4 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 124.432,
+            "end": 126.232,
+            "length": 1.8
+        },
+        "5 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 126.365,
+            "end": 128.798,
+            "length": 2.43
+        },
+        "6 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 128.898,
+            "end": 132.232,
+            "length": 3.33
+        },
+        "7 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 132.398,
+            "end": 135.932,
+            "length": 3.53
+        },
+        "8 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 136.065,
+            "end": 139.898,
+            "length": 3.83
+        },
+        "9 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 139.965,
+            "end": 147.898,
+            "length": 7.93
+        },
+        "10 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 195.797,
+            "end": 197.497,
+            "length": 1.7
+        },
+        "11 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 197.631,
+            "end": 208.197,
+            "length": 10.57
+        },
+        "13 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 229.33,
+            "end": 238.897,
+            "length": 9.57
+        },
+        "14 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 272.363,
+            "end": 291.929,
+            "length": 19.57
+        },
+        "15 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 297.029,
+            "end": 299.996,
+            "length": 2.97
+        }
+    },
+    "audio600.wav": {
+        "1 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 61.733,
+            "end": 63.299,
+            "length": 1.57
+        },
+        "2 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 63.366,
+            "end": 64.666,
+            "length": 1.3
+        },
+        "6 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 136.198,
+            "end": 137.665,
+            "length": 1.47
+        },
+        "7 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 141.098,
+            "end": 141.998,
+            "length": 0.9
+        },
+        "8 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 158.531,
+            "end": 162.331,
+            "length": 3.8
+        },
+        "9 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 185.864,
+            "end": 188.031,
+            "length": 2.17
+        },
+        "11 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 247.663,
+            "end": 251.063,
+            "length": 3.4
+        }
+    },
+    "audio602.wav": {
+        "2 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 206.097,
+            "end": 208.822,
+            "length": 2.72
+        },
+        "5 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 65.199,
+            "end": 68.124,
+            "length": 2.92
+        },
+        "42 event": {
+            "taxonomy": "other_amphibians",
+            "start": 283.146,
+            "end": 284.871,
+            "length": 1.72
+        },
+        "43 event": {
+            "taxonomy": "other_amphibians",
+            "start": 285.646,
+            "end": 286.921,
+            "length": 1.27
+        }
+    },
+    "audio603.wav": {
+        "1 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 94.139,
+            "end": 99.959,
+            "length": 5.82
+        },
+        "2 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 100.879,
+            "end": 102.239,
+            "length": 1.36
+        },
+        "3 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 135.398,
+            "end": 137.038,
+            "length": 1.64
+        },
+        "4 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 137.418,
+            "end": 139.018,
+            "length": 1.6
+        },
+        "6 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 141.718,
+            "end": 146.738,
+            "length": 5.02
+        },
+        "7 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 147.958,
+            "end": 149.558,
+            "length": 1.6
+        },
+        "9 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 178.058,
+            "end": 179.698,
+            "length": 1.64
+        },
+        "13 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 260.797,
+            "end": 263.096,
+            "length": 2.3
+        },
+        "62 event": {
+            "taxonomy": "other_amphibians",
+            "start": 259.417,
+            "end": 260.297,
+            "length": 0.88
+        },
+        "63 event": {
+            "taxonomy": "other_amphibians",
+            "start": 266.616,
+            "end": 267.176,
+            "length": 0.56
+        }
+    },
+    "audio604.wav": {
+        "1 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 0.15,
+            "end": 1.7000000000000002,
+            "length": 1.55
+        },
+        "2 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 6.45,
+            "end": 8.925,
+            "length": 2.48
+        },
+        "4 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 16.975,
+            "end": 22.9,
+            "length": 5.92
+        },
+        "5 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 96.674,
+            "end": 99.274,
+            "length": 2.6
+        },
+        "12 event": {
+            "taxonomy": "other_amphibians",
+            "start": 163.748,
+            "end": 165.073,
+            "length": 1.33
+        },
+        "13 event": {
+            "taxonomy": "other_amphibians",
+            "start": 169.698,
+            "end": 172.298,
+            "length": 2.6
+        },
+        "14 event": {
+            "taxonomy": "other_amphibians",
+            "start": 181.973,
+            "end": 183.623,
+            "length": 1.65
+        },
+        "15 event": {
+            "taxonomy": "other_amphibians",
+            "start": 222.497,
+            "end": 223.522,
+            "length": 1.02
+        },
+        "17 event": {
+            "taxonomy": "other_amphibians",
+            "start": 226.097,
+            "end": 227.697,
+            "length": 1.6
+        },
+        "18 event": {
+            "taxonomy": "other_amphibians",
+            "start": 229.772,
+            "end": 232.047,
+            "length": 2.28
+        },
+        "20 event": {
+            "taxonomy": "other_amphibians",
+            "start": 234.522,
+            "end": 235.147,
+            "length": 0.62
+        },
+        "21 event": {
+            "taxonomy": "other_amphibians",
+            "start": 238.972,
+            "end": 242.147,
+            "length": 3.17
+        },
+        "22 event": {
+            "taxonomy": "other_amphibians",
+            "start": 242.722,
+            "end": 243.822,
+            "length": 1.1
+        },
+        "24 event": {
+            "taxonomy": "other_amphibians",
+            "start": 246.197,
+            "end": 247.322,
+            "length": 1.12
+        },
+        "25 event": {
+            "taxonomy": "other_amphibians",
+            "start": 247.472,
+            "end": 248.447,
+            "length": 0.97
+        },
+        "28 event": {
+            "taxonomy": "other_amphibians",
+            "start": 261.972,
+            "end": 262.871,
+            "length": 0.9
+        },
+        "29 event": {
+            "taxonomy": "other_amphibians",
+            "start": 290.646,
+            "end": 295.671,
+            "length": 5.02
+        },
+        "30 event": {
+            "taxonomy": "other_amphibians",
+            "start": 297.696,
+            "end": 299.896,
+            "length": 2.2
+        }
+    },
+    "audio605.wav": {
+        "15 event": {
+            "taxonomy": "other_amphibians",
+            "start": 0.1,
+            "end": 0.714,
+            "length": 0.61
+        },
+        "16 event": {
+            "taxonomy": "other_amphibians",
+            "start": 3.271,
+            "end": 4.0,
+            "length": 0.73
+        },
+        "18 event": {
+            "taxonomy": "other_amphibians",
+            "start": 7.128,
+            "end": 7.643,
+            "length": 0.51
+        },
+        "19 event": {
+            "taxonomy": "other_amphibians",
+            "start": 9.271,
+            "end": 10.128,
+            "length": 0.86
+        },
+        "20 event": {
+            "taxonomy": "other_amphibians",
+            "start": 10.957,
+            "end": 11.928,
+            "length": 0.97
+        },
+        "21 event": {
+            "taxonomy": "other_amphibians",
+            "start": 12.7,
+            "end": 13.871,
+            "length": 1.17
+        },
+        "22 event": {
+            "taxonomy": "other_amphibians",
+            "start": 14.957,
+            "end": 15.586,
+            "length": 0.63
+        },
+        "23 event": {
+            "taxonomy": "other_amphibians",
+            "start": 16.871,
+            "end": 17.514,
+            "length": 0.64
+        },
+        "25 event": {
+            "taxonomy": "other_amphibians",
+            "start": 21.5,
+            "end": 22.014,
+            "length": 0.51
+        },
+        "26 event": {
+            "taxonomy": "other_amphibians",
+            "start": 25.3,
+            "end": 26.028,
+            "length": 0.73
+        },
+        "27 event": {
+            "taxonomy": "other_amphibians",
+            "start": 26.985,
+            "end": 28.142,
+            "length": 1.16
+        },
+        "28 event": {
+            "taxonomy": "other_amphibians",
+            "start": 28.771,
+            "end": 30.142,
+            "length": 1.37
+        },
+        "29 event": {
+            "taxonomy": "other_amphibians",
+            "start": 30.771,
+            "end": 32.028,
+            "length": 1.26
+        },
+        "30 event": {
+            "taxonomy": "other_amphibians",
+            "start": 33.371,
+            "end": 34.585,
+            "length": 1.21
+        },
+        "31 event": {
+            "taxonomy": "other_amphibians",
+            "start": 35.328,
+            "end": 36.657,
+            "length": 1.33
+        },
+        "32 event": {
+            "taxonomy": "other_amphibians",
+            "start": 37.4,
+            "end": 38.514,
+            "length": 1.11
+        },
+        "33 event": {
+            "taxonomy": "other_amphibians",
+            "start": 39.457,
+            "end": 40.342,
+            "length": 0.88
+        },
+        "34 event": {
+            "taxonomy": "other_amphibians",
+            "start": 41.485,
+            "end": 42.314,
+            "length": 0.83
+        },
+        "35 event": {
+            "taxonomy": "other_amphibians",
+            "start": 43.185,
+            "end": 44.099,
+            "length": 0.91
+        },
+        "36 event": {
+            "taxonomy": "other_amphibians",
+            "start": 45.271,
+            "end": 46.171,
+            "length": 0.9
+        },
+        "37 event": {
+            "taxonomy": "other_amphibians",
+            "start": 47.199,
+            "end": 47.942,
+            "length": 0.74
+        },
+        "38 event": {
+            "taxonomy": "other_amphibians",
+            "start": 49.028,
+            "end": 49.942,
+            "length": 0.91
+        },
+        "40 event": {
+            "taxonomy": "other_amphibians",
+            "start": 52.928,
+            "end": 53.642,
+            "length": 0.71
+        },
+        "41 event": {
+            "taxonomy": "other_amphibians",
+            "start": 54.899,
+            "end": 55.699,
+            "length": 0.8
+        },
+        "42 event": {
+            "taxonomy": "other_amphibians",
+            "start": 56.842,
+            "end": 57.899,
+            "length": 1.06
+        },
+        "47 event": {
+            "taxonomy": "other_amphibians",
+            "start": 67.928,
+            "end": 68.785,
+            "length": 0.86
+        },
+        "51 event": {
+            "taxonomy": "other_amphibians",
+            "start": 84.313,
+            "end": 85.242,
+            "length": 0.93
+        },
+        "52 event": {
+            "taxonomy": "other_amphibians",
+            "start": 86.227,
+            "end": 87.056,
+            "length": 0.83
+        },
+        "53 event": {
+            "taxonomy": "other_amphibians",
+            "start": 93.684,
+            "end": 94.884,
+            "length": 1.2
+        },
+        "55 event": {
+            "taxonomy": "other_amphibians",
+            "start": 97.913,
+            "end": 98.842,
+            "length": 0.93
+        },
+        "56 event": {
+            "taxonomy": "other_amphibians",
+            "start": 99.87,
+            "end": 100.684,
+            "length": 0.81
+        },
+        "57 event": {
+            "taxonomy": "other_amphibians",
+            "start": 101.313,
+            "end": 102.084,
+            "length": 0.77
+        },
+        "58 event": {
+            "taxonomy": "other_amphibians",
+            "start": 103.213,
+            "end": 104.17,
+            "length": 0.96
+        },
+        "60 event": {
+            "taxonomy": "other_amphibians",
+            "start": 106.841,
+            "end": 108.313,
+            "length": 1.47
+        },
+        "61 event": {
+            "taxonomy": "other_amphibians",
+            "start": 109.313,
+            "end": 110.199,
+            "length": 0.89
+        },
+        "63 event": {
+            "taxonomy": "other_amphibians",
+            "start": 112.984,
+            "end": 113.856,
+            "length": 0.87
+        },
+        "64 event": {
+            "taxonomy": "other_amphibians",
+            "start": 115.156,
+            "end": 116.013,
+            "length": 0.86
+        },
+        "65 event": {
+            "taxonomy": "other_amphibians",
+            "start": 118.57,
+            "end": 119.47,
+            "length": 0.9
+        },
+        "66 event": {
+            "taxonomy": "other_amphibians",
+            "start": 120.37,
+            "end": 121.27,
+            "length": 0.9
+        },
+        "67 event": {
+            "taxonomy": "other_amphibians",
+            "start": 122.113,
+            "end": 122.898,
+            "length": 0.78
+        },
+        "68 event": {
+            "taxonomy": "other_amphibians",
+            "start": 124.098,
+            "end": 125.013,
+            "length": 0.92
+        },
+        "69 event": {
+            "taxonomy": "other_amphibians",
+            "start": 126.127,
+            "end": 126.97,
+            "length": 0.84
+        },
+        "70 event": {
+            "taxonomy": "other_amphibians",
+            "start": 127.884,
+            "end": 128.655,
+            "length": 0.77
+        },
+        "71 event": {
+            "taxonomy": "other_amphibians",
+            "start": 129.67,
+            "end": 130.47,
+            "length": 0.8
+        },
+        "72 event": {
+            "taxonomy": "other_amphibians",
+            "start": 131.255,
+            "end": 132.27,
+            "length": 1.02
+        },
+        "74 event": {
+            "taxonomy": "other_amphibians",
+            "start": 135.727,
+            "end": 136.641,
+            "length": 0.91
+        },
+        "75 event": {
+            "taxonomy": "other_amphibians",
+            "start": 137.755,
+            "end": 138.912,
+            "length": 1.16
+        },
+        "78 event": {
+            "taxonomy": "other_amphibians",
+            "start": 143.112,
+            "end": 143.955,
+            "length": 0.84
+        },
+        "79 event": {
+            "taxonomy": "other_amphibians",
+            "start": 146.084,
+            "end": 147.027,
+            "length": 0.94
+        },
+        "80 event": {
+            "taxonomy": "other_amphibians",
+            "start": 150.612,
+            "end": 151.641,
+            "length": 1.03
+        },
+        "81 event": {
+            "taxonomy": "other_amphibians",
+            "start": 152.669,
+            "end": 153.741,
+            "length": 1.07
+        },
+        "83 event": {
+            "taxonomy": "other_amphibians",
+            "start": 156.812,
+            "end": 157.584,
+            "length": 0.77
+        },
+        "84 event": {
+            "taxonomy": "other_amphibians",
+            "start": 160.041,
+            "end": 160.941,
+            "length": 0.9
+        },
+        "85 event": {
+            "taxonomy": "other_amphibians",
+            "start": 158.484,
+            "end": 158.998,
+            "length": 0.51
+        },
+        "86 event": {
+            "taxonomy": "other_amphibians",
+            "start": 162.012,
+            "end": 163.226,
+            "length": 1.21
+        },
+        "87 event": {
+            "taxonomy": "other_amphibians",
+            "start": 163.912,
+            "end": 165.069,
+            "length": 1.16
+        },
+        "88 event": {
+            "taxonomy": "other_amphibians",
+            "start": 165.355,
+            "end": 166.612,
+            "length": 1.26
+        },
+        "89 event": {
+            "taxonomy": "other_amphibians",
+            "start": 167.269,
+            "end": 168.498,
+            "length": 1.23
+        },
+        "90 event": {
+            "taxonomy": "other_amphibians",
+            "start": 169.083,
+            "end": 170.055,
+            "length": 0.97
+        },
+        "92 event": {
+            "taxonomy": "other_amphibians",
+            "start": 172.526,
+            "end": 173.526,
+            "length": 1.0
+        },
+        "93 event": {
+            "taxonomy": "other_amphibians",
+            "start": 174.155,
+            "end": 175.055,
+            "length": 0.9
+        },
+        "94 event": {
+            "taxonomy": "other_amphibians",
+            "start": 175.969,
+            "end": 176.912,
+            "length": 0.94
+        },
+        "95 event": {
+            "taxonomy": "other_amphibians",
+            "start": 178.155,
+            "end": 179.126,
+            "length": 0.97
+        },
+        "97 event": {
+            "taxonomy": "other_amphibians",
+            "start": 182.026,
+            "end": 182.826,
+            "length": 0.8
+        },
+        "98 event": {
+            "taxonomy": "other_amphibians",
+            "start": 185.683,
+            "end": 186.555,
+            "length": 0.87
+        },
+        "99 event": {
+            "taxonomy": "other_amphibians",
+            "start": 190.483,
+            "end": 191.412,
+            "length": 0.93
+        },
+        "100 event": {
+            "taxonomy": "other_amphibians",
+            "start": 192.669,
+            "end": 193.483,
+            "length": 0.81
+        },
+        "101 event": {
+            "taxonomy": "other_amphibians",
+            "start": 194.755,
+            "end": 195.726,
+            "length": 0.97
+        },
+        "102 event": {
+            "taxonomy": "other_amphibians",
+            "start": 196.955,
+            "end": 197.826,
+            "length": 0.87
+        },
+        "103 event": {
+            "taxonomy": "other_amphibians",
+            "start": 241.354,
+            "end": 242.525,
+            "length": 1.17
+        },
+        "104 event": {
+            "taxonomy": "other_amphibians",
+            "start": 243.382,
+            "end": 244.068,
+            "length": 0.69
+        },
+        "105 event": {
+            "taxonomy": "other_amphibians",
+            "start": 246.097,
+            "end": 246.797,
+            "length": 0.7
+        },
+        "106 event": {
+            "taxonomy": "other_amphibians",
+            "start": 248.954,
+            "end": 249.825,
+            "length": 0.87
+        }
+    },
+    "audio615.wav": {
+        "1 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 2.867,
+            "end": 3.6,
+            "length": 0.73
+        },
+        "5 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 19.286,
+            "end": 20.386,
+            "length": 1.1
+        },
+        "6 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 67.099,
+            "end": 68.079,
+            "length": 0.98
+        }
+    },
+    "audio617.wav": {
+        "1 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 152.331,
+            "end": 153.215,
+            "length": 0.88
+        },
+        "2 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 153.281,
+            "end": 154.048,
+            "length": 0.77
+        },
+        "3 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 154.215,
+            "end": 154.981,
+            "length": 0.77
+        },
+        "4 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 155.148,
+            "end": 155.915,
+            "length": 0.77
+        }
+    },
+    "audio618.wav": {
+        "6 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 0.0,
+            "end": 0.08,
+            "length": 0.08
+        }
+    },
+    "audio619.wav": {
+        "1 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 28.1,
+            "end": 29.05,
+            "length": 0.95
+        },
+        "2 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 31.775,
+            "end": 32.975,
+            "length": 1.2
+        },
+        "5 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 65.024,
+            "end": 65.999,
+            "length": 0.97
+        }
+    },
+    "audio622.wav": {
+        "107 event": {
+            "taxonomy": "other_amphibians",
+            "start": 171.931,
+            "end": 173.031,
+            "length": 1.1
+        },
+        "109 event": {
+            "taxonomy": "other_amphibians",
+            "start": 175.264,
+            "end": 175.964,
+            "length": 0.7
+        },
+        "112 event": {
+            "taxonomy": "other_amphibians",
+            "start": 179.264,
+            "end": 180.231,
+            "length": 0.97
+        }
+    },
+    "audio623.wav": {
+        "20 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 217.347,
+            "end": 218.822,
+            "length": 1.47
+        },
+        "28 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 280.546,
+            "end": 282.446,
+            "length": 1.9
+        },
+        "117 event": {
+            "taxonomy": "other_amphibians",
+            "start": 19.88,
+            "end": 20.64,
+            "length": 0.76
+        },
+        "118 event": {
+            "taxonomy": "other_amphibians",
+            "start": 21.4,
+            "end": 22.14,
+            "length": 0.74
+        },
+        "120 event": {
+            "taxonomy": "other_amphibians",
+            "start": 24.44,
+            "end": 25.0,
+            "length": 0.56
+        },
+        "122 event": {
+            "taxonomy": "other_amphibians",
+            "start": 27.428,
+            "end": 27.971,
+            "length": 0.54
+        },
+        "146 event": {
+            "taxonomy": "other_amphibians",
+            "start": 80.879,
+            "end": 81.939,
+            "length": 1.06
+        },
+        "147 event": {
+            "taxonomy": "other_amphibians",
+            "start": 82.619,
+            "end": 83.659,
+            "length": 1.04
+        },
+        "150 event": {
+            "taxonomy": "other_amphibians",
+            "start": 90.179,
+            "end": 90.979,
+            "length": 0.8
+        },
+        "154 event": {
+            "taxonomy": "other_amphibians",
+            "start": 87.379,
+            "end": 88.299,
+            "length": 0.92
+        },
+        "164 event": {
+            "taxonomy": "other_amphibians",
+            "start": 115.538,
+            "end": 116.198,
+            "length": 0.66
+        },
+        "165 event": {
+            "taxonomy": "other_amphibians",
+            "start": 116.618,
+            "end": 117.158,
+            "length": 0.54
+        },
+        "166 event": {
+            "taxonomy": "other_amphibians",
+            "start": 119.738,
+            "end": 120.818,
+            "length": 1.08
+        },
+        "178 event": {
+            "taxonomy": "other_amphibians",
+            "start": 200.797,
+            "end": 201.697,
+            "length": 0.9
+        },
+        "180 event": {
+            "taxonomy": "other_amphibians",
+            "start": 209.022,
+            "end": 209.772,
+            "length": 0.75
+        }
+    },
+    "audio624.wav": {
+        "74 event": {
+            "taxonomy": "other_amphibians",
+            "start": 8.3,
+            "end": 9.25,
+            "length": 0.95
+        },
+        "78 event": {
+            "taxonomy": "other_amphibians",
+            "start": 12.875,
+            "end": 13.625,
+            "length": 0.75
+        },
+        "89 event": {
+            "taxonomy": "other_amphibians",
+            "start": 57.499,
+            "end": 57.949,
+            "length": 0.45
+        }
+    },
+    "audio625.wav": {
+        "1 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 84.87,
+            "end": 85.613,
+            "length": 0.74
+        },
+        "2 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 133.57,
+            "end": 134.312,
+            "length": 0.74
+        },
+        "3 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 208.126,
+            "end": 213.011,
+            "length": 4.88
+        },
+        "4 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 214.511,
+            "end": 216.569,
+            "length": 2.06
+        },
+        "5 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 219.226,
+            "end": 227.254,
+            "length": 8.03
+        },
+        "6 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 227.84,
+            "end": 243.511,
+            "length": 15.67
+        },
+        "7 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 60.813,
+            "end": 64.185,
+            "length": 3.37
+        },
+        "8 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 65.428,
+            "end": 68.156,
+            "length": 2.73
+        },
+        "9 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 138.127,
+            "end": 141.541,
+            "length": 3.41
+        },
+        "10 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 167.298,
+            "end": 168.555,
+            "length": 1.26
+        },
+        "12 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 258.582,
+            "end": 259.725,
+            "length": 1.14
+        },
+        "14 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 262.611,
+            "end": 263.911,
+            "length": 1.3
+        },
+        "15 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 265.239,
+            "end": 267.696,
+            "length": 2.46
+        },
+        "16 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 268.454,
+            "end": 271.739,
+            "length": 3.28
+        },
+        "17 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 278.496,
+            "end": 280.996,
+            "length": 2.5
+        },
+        "34 event": {
+            "taxonomy": "other_amphibians",
+            "start": 0.171,
+            "end": 1.643,
+            "length": 1.47
+        },
+        "35 event": {
+            "taxonomy": "other_amphibians",
+            "start": 3.8,
+            "end": 5.143,
+            "length": 1.34
+        },
+        "36 event": {
+            "taxonomy": "other_amphibians",
+            "start": 11.086,
+            "end": 12.228,
+            "length": 1.14
+        },
+        "37 event": {
+            "taxonomy": "other_amphibians",
+            "start": 13.657,
+            "end": 14.657,
+            "length": 1.0
+        },
+        "38 event": {
+            "taxonomy": "other_amphibians",
+            "start": 15.286,
+            "end": 16.143,
+            "length": 0.86
+        },
+        "39 event": {
+            "taxonomy": "other_amphibians",
+            "start": 17.771,
+            "end": 18.743,
+            "length": 0.97
+        },
+        "40 event": {
+            "taxonomy": "other_amphibians",
+            "start": 18.814,
+            "end": 19.9,
+            "length": 1.09
+        }
+    },
+    "audio626.wav": {
+        "1 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 31.95,
+            "end": 43.124,
+            "length": 11.17
+        },
+        "2 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 45.224,
+            "end": 49.149,
+            "length": 3.93
+        },
+        "5 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 162.123,
+            "end": 172.423,
+            "length": 10.3
+        },
+        "6 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 175.823,
+            "end": 177.598,
+            "length": 1.78
+        },
+        "7 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 296.046,
+            "end": 299.771,
+            "length": 3.73
+        }
+    },
+    "audio627.wav": {
+        "1 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 0.28,
+            "end": 1.78,
+            "length": 1.5
+        }
+    },
+    "audio628.wav": {
+        "3 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 5.625,
+            "end": 6.925,
+            "length": 1.3
+        },
+        "4 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 7.1,
+            "end": 9.15,
+            "length": 2.05
+        },
+        "5 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 10.875,
+            "end": 13.625,
+            "length": 2.75
+        },
+        "6 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 13.9,
+            "end": 17.25,
+            "length": 3.35
+        },
+        "8 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 60.149,
+            "end": 72.124,
+            "length": 11.97
+        }
+    },
+    "audio629.wav": {
+        "1 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 120.648,
+            "end": 122.598,
+            "length": 1.95
+        },
+        "2 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 191.897,
+            "end": 195.272,
+            "length": 3.38
+        },
+        "3 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 199.522,
+            "end": 200.797,
+            "length": 1.28
+        },
+        "4 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 204.197,
+            "end": 210.197,
+            "length": 6.0
+        },
+        "6 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 229.622,
+            "end": 240.097,
+            "length": 10.47
+        }
+    },
+    "audio630.wav": {
+        "1 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 1.2,
+            "end": 3.06,
+            "length": 1.86
+        },
+        "2 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 8.7,
+            "end": 10.314,
+            "length": 1.61
+        },
+        "5 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 26.343,
+            "end": 38.757,
+            "length": 12.41
+        },
+        "6 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 42.999,
+            "end": 55.071,
+            "length": 12.07
+        },
+        "7 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 57.871,
+            "end": 59.813,
+            "length": 1.94
+        },
+        "8 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 61.299,
+            "end": 76.356,
+            "length": 15.06
+        },
+        "9 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 82.142,
+            "end": 86.027,
+            "length": 3.89
+        },
+        "10 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 88.985,
+            "end": 107.27,
+            "length": 18.28
+        },
+        "11 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 113.684,
+            "end": 131.855,
+            "length": 18.17
+        },
+        "12 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 133.155,
+            "end": 144.684,
+            "length": 11.53
+        },
+        "13 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 147.641,
+            "end": 149.841,
+            "length": 2.2
+        },
+        "14 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 155.184,
+            "end": 156.641,
+            "length": 1.46
+        },
+        "15 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 163.184,
+            "end": 171.141,
+            "length": 7.96
+        },
+        "16 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 174.869,
+            "end": 177.669,
+            "length": 2.8
+        },
+        "17 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 181.969,
+            "end": 184.298,
+            "length": 2.33
+        },
+        "18 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 189.597,
+            "end": 206.326,
+            "length": 16.73
+        },
+        "20 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 224.368,
+            "end": 228.768,
+            "length": 4.4
+        }
+    },
+    "audio647.wav": {
+        "3 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 21.85,
+            "end": 22.675,
+            "length": 0.82
+        },
+        "7 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 29.375,
+            "end": 30.425,
+            "length": 1.05
+        },
+        "8 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 45.649,
+            "end": 56.199,
+            "length": 10.55
+        },
+        "9 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 59.774,
+            "end": 62.399,
+            "length": 2.62
+        },
+        "12 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 77.074,
+            "end": 79.049,
+            "length": 1.98
+        },
+        "13 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 85.474,
+            "end": 86.749,
+            "length": 1.27
+        },
+        "15 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 94.549,
+            "end": 98.374,
+            "length": 3.82
+        },
+        "24 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 149.773,
+            "end": 152.998,
+            "length": 3.22
+        },
+        "25 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 157.623,
+            "end": 158.998,
+            "length": 1.38
+        },
+        "26 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 159.723,
+            "end": 160.873,
+            "length": 1.15
+        },
+        "27 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 161.573,
+            "end": 162.923,
+            "length": 1.35
+        },
+        "30 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 174.373,
+            "end": 175.223,
+            "length": 0.85
+        },
+        "31 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 177.798,
+            "end": 178.698,
+            "length": 0.9
+        },
+        "32 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 179.273,
+            "end": 180.298,
+            "length": 1.03
+        },
+        "35 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 212.297,
+            "end": 214.597,
+            "length": 2.3
+        },
+        "36 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 223.372,
+            "end": 224.697,
+            "length": 1.32
+        },
+        "37 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 237.047,
+            "end": 238.472,
+            "length": 1.43
+        },
+        "38 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 238.822,
+            "end": 240.222,
+            "length": 1.4
+        },
+        "39 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 253.522,
+            "end": 257.197,
+            "length": 3.68
+        },
+        "40 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 265.571,
+            "end": 268.846,
+            "length": 3.27
+        },
+        "41 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 272.171,
+            "end": 273.571,
+            "length": 1.4
+        },
+        "42 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 273.746,
+            "end": 275.571,
+            "length": 1.83
+        },
+        "43 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 276.271,
+            "end": 277.621,
+            "length": 1.35
+        },
+        "45 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 20.75,
+            "end": 21.475,
+            "length": 0.73
+        },
+        "46 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 22.725,
+            "end": 23.4,
+            "length": 0.67
+        }
+    },
+    "audio648.wav": {
+        "2 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 41.549,
+            "end": 43.574,
+            "length": 2.02
+        },
+        "8 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 183.073,
+            "end": 183.923,
+            "length": 0.85
+        }
+    },
+    "audio649.wav": {
+        "2 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 42.233,
+            "end": 42.999,
+            "length": 0.77
+        },
+        "6 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 116.823,
+            "end": 120.448,
+            "length": 3.62
+        },
+        "10 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 173.648,
+            "end": 184.298,
+            "length": 10.65
+        }
+    },
+    "audio650.wav": {
+        "7 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 14.675,
+            "end": 18.575,
+            "length": 3.9
+        },
+        "8 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 22.325,
+            "end": 29.875,
+            "length": 7.55
+        },
+        "10 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 90.449,
+            "end": 91.824,
+            "length": 1.38
+        },
+        "11 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 116.523,
+            "end": 117.998,
+            "length": 1.48
+        }
+    },
+    "audio651.wav": {
+        "1 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 83.499,
+            "end": 85.749,
+            "length": 2.25
+        },
+        "6 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 211.622,
+            "end": 212.922,
+            "length": 1.3
+        },
+        "12 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 18.775,
+            "end": 21.875,
+            "length": 3.1
+        }
+    },
+    "audio652.wav": {
+        "1 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 74.566,
+            "end": 76.099,
+            "length": 1.53
+        }
+    },
+    "audio653.wav": {
+        "10 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 240.897,
+            "end": 242.322,
+            "length": 1.43
+        },
+        "13 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 280.921,
+            "end": 282.671,
+            "length": 1.75
+        },
+        "14 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 290.021,
+            "end": 291.371,
+            "length": 1.35
+        },
+        "22 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 181.198,
+            "end": 182.773,
+            "length": 1.57
+        }
+    },
+    "audio719.wav": {
+        "9 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 144.865,
+            "end": 147.965,
+            "length": 3.1
+        },
+        "10 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 157.631,
+            "end": 163.631,
+            "length": 6.0
+        },
+        "13 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 175.898,
+            "end": 185.764,
+            "length": 9.87
+        },
+        "15 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 202.631,
+            "end": 210.631,
+            "length": 8.0
+        },
+        "18 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 240.163,
+            "end": 245.497,
+            "length": 5.33
+        },
+        "25 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 116.632,
+            "end": 118.265,
+            "length": 1.63
+        }
+    },
+    "audio720.wav": {
+        "2 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 14.133,
+            "end": 15.5,
+            "length": 1.37
+        }
+    },
+    "audio890.wav": {
+        "26 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 201.897,
+            "end": 207.397,
+            "length": 5.5
+        }
+    },
+    "audio962.wav": {
+        "1 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 0.0,
+            "end": 27.392,
+            "length": 27.39
+        }
+    },
+    "audio963.wav": {
+        "7 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 133.718,
+            "end": 134.618,
+            "length": 0.9
+        }
+    },
+    "audio965.wav": {
+        "3 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 117.738,
+            "end": 126.738,
+            "length": 9.0
+        }
+    },
+    "audio966.wav": {
+        "5 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 128.618,
+            "end": 130.078,
+            "length": 1.46
+        }
+    },
+    "audio968.wav": {
+        "1 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 0.0,
+            "end": 10.435,
+            "length": 10.44
+        },
+        "2 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 15.3,
+            "end": 28.0,
+            "length": 12.7
+        },
+        "4 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 57.959,
+            "end": 70.179,
+            "length": 12.22
+        },
+        "5 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 107.718,
+            "end": 111.372,
+            "length": 3.65
+        },
+        "10 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 200.797,
+            "end": 203.197,
+            "length": 2.4
+        },
+        "11 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 204.097,
+            "end": 205.397,
+            "length": 1.3
+        },
+        "12 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 205.957,
+            "end": 207.757,
+            "length": 1.8
+        },
+        "14 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 262.036,
+            "end": 263.636,
+            "length": 1.6
+        },
+        "15 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 264.336,
+            "end": 265.536,
+            "length": 1.2
+        }
+    },
+    "audio1003.wav": {
+        "11 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 21.22,
+            "end": 24.068,
+            "length": 2.85
+        },
+        "13 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 93.889,
+            "end": 94.999,
+            "length": 1.11
+        },
+        "16 event": {
+            "taxonomy": "Batrachyla_taeniata",
+            "start": 99.189,
+            "end": 100.394,
+            "length": 1.21
+        }
+    },
+    "audio1004.wav": {
+        "4 event": {
+            "taxonomy": "Batrachyla_leptopus",
+            "start": 15.49,
+            "end": 16.375,
+            "length": 0.88
+        }
+    },
+    "audio1469.wav": {
+        "1 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 0.0,
+            "end": 0.4,
+            "length": 0.4
+        }
+    },
+    "audio1494.wav": {
+        "1 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 0.0,
+            "end": 1.7000000000000002,
+            "length": 1.7
+        }
+    },
+    "audio1516.wav": {
+        "5 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 127.408,
+            "end": 129.418,
+            "length": 2.01
+        },
+        "12 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 226.057,
+            "end": 232.397,
+            "length": 6.34
+        },
+        "19 event": {
+            "taxonomy": "other_amphibians",
+            "start": 121.988,
+            "end": 125.038,
+            "length": 3.05
+        }
+    },
+    "audio1517.wav": {
+        "20 event": {
+            "taxonomy": "other_amphibians",
+            "start": 290.356,
+            "end": 291.156,
+            "length": 0.8
+        },
+        "21 event": {
+            "taxonomy": "other_amphibians",
+            "start": 298.556,
+            "end": 299.356,
+            "length": 0.8
+        }
+    },
+    "audio1518.wav": {
+        "1 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 0.0,
+            "end": 13.046,
+            "length": 13.05
+        }
+    },
+    "audio1533.wav": {
+        "2 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 0.0,
+            "end": 21.791,
+            "length": 21.79
+        }
+    },
+    "audio1536.wav": {
+        "23 event": {
+            "taxonomy": "other_amphibians",
+            "start": 58.22,
+            "end": 63.072,
+            "length": 4.85
+        }
+    },
+    "audio1564.wav": {
+        "14 event": {
+            "taxonomy": "Pleurodema_thaul",
+            "start": 0.0,
+            "end": 0.2,
+            "length": 0.2
+        }
+    }
+}
