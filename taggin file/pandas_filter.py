@@ -6,7 +6,10 @@ import os
 
 from typing import Tuple, Optional, Union
 
-MAIN_TAXONOMY = ('Pleurodema_thaul', 'other_amphibians', 'Batrachyla_taeniata', 'Batrachyla_leptopus')
+MAIN_TAXONOMY = ('Pleurodema_thaul', 
+                'other_amphibians', 
+                'Batrachyla_taeniata', 
+                'Batrachyla_leptopus')
 DATA_PATH = "taggin/taggin file/1039_modificado_v2.json"
 
 def filter_by_taxonomy(file: json, taxonomy: tuple) -> pd.DataFrame:

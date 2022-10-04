@@ -7,7 +7,7 @@ from typing import Optional
 from pydantic import BaseModel
 
 DATA_FILE_PATH = 'mp_ev_v3.json'
-
+DATA_AUDIO_FILES = '/home/vpoblete/Escritorio'
 class Event(BaseModel):
     taxonomy: str
     start: float|int
@@ -15,10 +15,11 @@ class Event(BaseModel):
     length: float|int
     file_name: str
 
-def importData() -> Event:
+def importData():
     with open(DATA_FILE_PATH) as file:
         data = json.load(file)
-        events = [Event(**e) for e in data]
+        return data
+        events = [Event(**event) for event in data]
     return events
 
 def cutAudioFile(path: str, start: float|int, end: float|int):
@@ -42,9 +43,10 @@ def writeAudioFile(data, sr, file_name: str, taxonomy:str):
 
 def loopThroughTheData(directory: Optional[str]=None) -> None:
     events = importData()
-    if directory:
-        path = os.path.join(directory, event.file_name)
+    
     for i, event in enumerate(events):
+        if directory:
+            path = os.path.join(directory, event.file_name)
         y, sr = cutAudioFile(path, 
                             event.start,
                             event.end)
@@ -52,7 +54,8 @@ def loopThroughTheData(directory: Optional[str]=None) -> None:
 
 def main() -> None:
     """Main function"""
-    loopThroughTheData()
+    #loopThroughTheData(DATA_FILE_PATH)
+    events = importData()
 
 if __name__ == '__main__':
     main()
