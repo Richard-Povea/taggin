@@ -1,0 +1,35 @@
+---
+bird:
+  x: !!python/tuple [0, 200]
+  y: !!python/tuple [4, 40]
+  z: !!python/tuple [0, 200]
+
+dog:
+  x: !!python/tuple [200, 250]
+  y: 0.5
+  z: !!python/tuple [200, 250]
+
+frog:
+  x: !!python/tuple [0, 100]
+  y: 0.5
+  z: !!python/tuple [0, 100]
+murmullo:
+  x: !!python/tuple [100, 200]
+  y: 1.5
+  z: !!python/tuple [100, 200]
+rain:
+  x: !!python/tuple [0, 100]
+  y: 10
+  z: !!python/tuple [0, 100]
+step:
+  x: !!python/tuple [100, 200]
+  y: 0.1
+  z: !!python/tuple [100, 200]
+vehicle:
+  x: !!python/tuple [100, 250]
+  y: 1
+  z: !!python/tuple [100, 250]
+wind:
+  x: !!python/tuple [0, 200]
+  y: !!python/tuple [1, 5]
+  z: !!python/tuple [0, 200]

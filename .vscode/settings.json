@@ -1,7 +1,11 @@
 {
     "cSpell.words": [
+        "humedal",
         "librosa",
+        "murmullo",
         "pydantic",
-        "soundfile"
+        "scipy",
+        "soundfile",
+        "urbano"
     ]
 }
