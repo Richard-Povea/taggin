@@ -4,8 +4,10 @@
         "librosa",
         "murmullo",
         "pydantic",
+        "savemat",
         "scipy",
         "soundfile",
+        "tqdm",
         "urbano"
     ]
 }

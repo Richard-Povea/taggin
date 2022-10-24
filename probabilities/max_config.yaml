@@ -1,0 +1,30 @@
+---
+humedal:
+  bird: 1
+  dog: 0
+  frog: 2
+  murmullo: 0
+  rain: 0
+  step: 0
+  vehicle: 0
+  wind: 1
+
+humedal-urbano:
+  bird: 1
+  dog: 0
+  frog: 2
+  murmullo: 0
+  rain: 0
+  step: 0
+  vehicle: 0
+  wind: 1
+
+urbano:
+  bird: 0
+  dog: 2
+  frog: 0
+  murmullo: 1
+  rain: 0
+  step: 1
+  vehicle: 2
+  wind: 1
