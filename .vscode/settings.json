@@ -1,7 +1,9 @@
 {
     "cSpell.words": [
+        "arange",
         "humedal",
         "librosa",
+        "matplotlib",
         "murmullo",
         "pydantic",
         "savemat",

@@ -27,7 +27,6 @@ def main():
     positions = RandomPositions(52)
     loop = tqdm(total = N, position=0, leave=False)
     for i in range(1,N+1):
-        #loop.set_description('Loading ...')
         loop.update(1)
         auxiliary = dict()
         for  taxonomy in taxonomies:
@@ -131,6 +130,11 @@ class Settings:
         if isinstance(limit, Tuple):
             return np.arange(limit[0], limit[1])
         return limit
+    
+    @property
+    def n_limits(self):
+        return self.config['movement'][self.name]
+        
 
 class RandomPositions:
     HUMEDAL = (2, 99)
@@ -145,7 +149,7 @@ class RandomPositions:
         self.range_U = calculate_range(URBANO)
         
     
-    def random_position(self, n_events: Tuple[int, int, int], high: float) -> Sequence:
+    def random_position(self, n_events:Tuple[int, int, int], high:float, movement:Optional[bool]=False) -> Sequence:
         positions = []
         if not isinstance(high, float):
             high = self.rng.choice(high)
@@ -163,6 +167,12 @@ class RandomPositions:
                                   -self.rng.choice(self.range_HU)))
         if urbano_events:
             for _ in range(urbano_events):
+                if movement:
+                    x_pos = self.rng.choice(self.range_U)
+                    z_pos = -240
+                    displacement = self.rng.integers(40, 60)
+                    init_pot = (x_pos, high, z_pos)
+                    positions.append(init_pot, (x_pos+displacement, high, z_pos))
                 positions.append((self.rng.choice(self.range_U), 
                                   high, 
                                   -self.rng.choice(self.range_U)))
@@ -188,6 +198,10 @@ class Taxonomy:
         while any(event < lower) or any(event > upper):
             event = self.rng.n_events(odds)
         return event
+    
+    @property
+    def movement(self):
+        return self.settings.movement
     
     @property
     def high_limits(self):

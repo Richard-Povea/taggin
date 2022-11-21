@@ -26,3 +26,11 @@ high_limit:
   car: 1.0
   step: 0.5
   murmullo: 1.5
+
+movement:
+  frog: false
+  bird: false
+  dog: false
+  car: true
+  step: false
+  murmullo: true
