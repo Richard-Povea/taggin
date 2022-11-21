@@ -3,19 +3,27 @@ import numpy as np
 import json
 import re
 import os
+import librosa
 
 from typing import Tuple, Optional, Union
 
-MAIN_TAXONOMY = ('Pleurodema_thaul', 
-                'other_amphibians', 
-                'Batrachyla_taeniata', 
-                'Batrachyla_leptopus')
-DATA_PATH = "taggin/taggin file/1039_modificado_v2.json"
+MAIN_TAXONOMY = ('blown','other_birds','dog','anthropophony_others','Theristicus_caudatus'
+,'Milvago_chimango','alarm','Vanellus_chilensis','motor','siren'
+,'rain_medium','Pleurodema_thaul','rain_drip','car_horn','rain_strong'
+,'other_amphibians','Batrachyla_taeniata','Batrachyla_leptopus','whistle'
+,'other_bird')
+DATA_PATH = "taggin file/1039_modificado_v2.json"
+DATA_AUDIO_FILES = '/home/vpoblete/Escritorio/audio_signals'
 
 def filter_by_taxonomy(file: json, taxonomy: tuple) -> pd.DataFrame:
     """Read JSON file, filter and sort by file and taxonomy """
     
-    df = pd.read_json(file)
+    df = pd.read_json(DATA_PATH, dtype={"path":str, 
+                                        "file":str,
+                                        "begining": float,
+                                        "end": float,
+                                        "taxonomy": str})
+    #print(df['taxonomy'].unique())                                   
     df_filter = df.loc[df['taxonomy'].isin(taxonomy)]
     audios = df_filter['file'].unique()
     
@@ -105,11 +113,30 @@ def find_monophonic_event(data: pd.DataFrame, beginning: float, end: float) -> T
     
     return monophonic, overlapping_tuple
 
+def audio_lenght(audio_name: str) -> int:
+    y, sr = librosa.load(os.path.join(DATA_AUDIO_FILES, audio_name), sr=None)
+    return int(librosa.get_duration(y=y, sr=sr))
+
+def find_bg_noise(data, audio_name: str, length: int):
+    audio_len = np.arange(audio_lenght(audio_name))
+    for start, end in zip(data['beginning'], data['end']):
+        audio_len = np.setdiff1d(audio_len, np.arange(int(start), int(end)))
+    return audio_len
+
+def loop_data(data: pd.DataFrame):
+    bg_noise_length = 10
+    for audio_name in data.index.get_level_values(0):
+        bg_noise = find_bg_noise(data, audio_name, bg_noise_length)
+        if len(bg_noise) > bg_noise_length:
+            print(bg_noise) 
+        
+
 def main()->None:
     data = filter_by_taxonomy(DATA_PATH, MAIN_TAXONOMY)
-    time = create_dict_file(data)
+    loop_data(data)
+    #time = create_dict_file(data)
     #write_json_file(time)
-    write_json_file(validate_founded(time, data), 'mp_ev_v3.json') 
+    #write_json_file(validate_founded(time, data), 'mp_ev_v3.json') 
     
     
 
